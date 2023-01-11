@@ -10,7 +10,7 @@ scanf("%d",&sap);
 if (sap==500099918)
 {
     printf("WELCOME RONIT \n");
-}
+}   
 else
 {
     printf("WELCOME USER \n");
